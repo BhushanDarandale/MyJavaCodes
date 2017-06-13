@@ -1,9 +1,9 @@
-package collection.ListInterface;
+package collection.List;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
 
-public class Diffrence_ArrayList_LinkedListExam {
+public class Diffrence_ArrayList_LinkedListExample {
 
 	
 	/*

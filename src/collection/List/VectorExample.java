@@ -1,9 +1,9 @@
-package collection.ListInterface;
+package collection.List;
 
 import java.util.Enumeration;
 import java.util.Vector;
 
-public class VectorExam {
+public class VectorExample {
 	
 	
 	/*

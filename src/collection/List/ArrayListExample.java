@@ -1,11 +1,11 @@
-package collection.ListInterface;
+package collection.List;
 
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
-public class ArrayListExam {
+public class ArrayListExample {
 
 	
 	 public static void main(String[] args)

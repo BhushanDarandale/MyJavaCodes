@@ -1,8 +1,8 @@
-package collection.ListInterface;
+package collection.List;
 
 import java.util.LinkedList;
 
-public class LinkedListExam {
+public class LinkedListExample {
 
 	
 	

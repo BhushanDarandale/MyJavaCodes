@@ -1,8 +1,8 @@
-package collection.ListInterface;
+package collection.List;
 
 import java.util.Stack;
 
-public class StackExam {
+public class StackExample {
 	
 	// Push element in stack
 	static void stack_push(Stack<Integer> stack)
